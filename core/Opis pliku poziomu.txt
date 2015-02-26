@@ -1,0 +1,4 @@
+Nazwa poziomu: 					test22
+Kolor wierzcho³ka w menu: 		130,167,0,255
+Promieñ wierzcho³ka w menu: 	20
+Nastêpne wierzcho³ki:			test3,test4
